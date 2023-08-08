@@ -1,0 +1,67 @@
+:root {
+    --color-pink: #EE24FF;
+    --color-purple: #3F3D56;
+    --color-grey: #828282;
+    --color-white: #ECEFF2
+}
+
+body {
+    text-align: center;
+    margin: auto;
+}
+
+#planet-img {
+    margin: 84px auto 40px;  
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    color: var(--color-purple);
+    font-size: 32px;
+    font-weight: normal;
+    margin-bottom: 32px;
+    
+}
+
+#destino {
+    color: var(--color-pink);
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 auto 0;
+}
+
+#wave {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+}
+
+#purple1 {
+    color: var(--color-purple);
+    font-weight: bold;
+}
+
+p {
+    color: var(--color-grey);
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+a {
+    color: var(--color-purple);
+    padding: 24px 0;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    font-size: 15px;
+}
+
+a + a{
+    margin-left: 45px;
+}
