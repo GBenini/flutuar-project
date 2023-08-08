@@ -33,7 +33,7 @@ O Flutuar é uma pagina simples para seu negócio de viagens, com acesso a Desti
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/K8ltvCLKivLGg4y4aP9kId/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=66LnvjIe4UuNRC9X-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LtCzPcC4RkC9nR1ACdUT8b/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=lWomywHrqh72ev2I-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
