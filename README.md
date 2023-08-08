@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="projeto Moveis" src="img/Projeto.png">
+  <img alt="projeto Moveis" src="img/projeto2.jpg">
 </p>
 
 <br>
