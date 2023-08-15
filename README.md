@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Flutuar é uma pagina simples para seu negócio de viagens, com acesso a Destinos, Ofertas e informações de Contato.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/flutuar-project/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/LtCzPcC4RkC9nR1ACdUT8b/Projeto01-Extra-(Copy)?type=design&node-id=0-1&mode=design&t=lWomywHrqh72ev2I-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
